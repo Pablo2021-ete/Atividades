@@ -1,2 +1,2 @@
 # Atividades
-Atividades da Matéria de Leticia.
+Atividades da lista numero 1 de Leticia
